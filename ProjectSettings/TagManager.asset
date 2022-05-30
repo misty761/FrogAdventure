@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bird
+  - Fruit
+  - Heart
+  - Box
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Ground
+  - Wall
+  - Item
+  - BlockBreak
+  - Part
+  - Camera
+  - CameraBound
+  - Laser
+  - DeadZone
+  - Fruit
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2208927731
+    locked: 0
+  - name: Middleground
+    uniqueID: 1412318105
+    locked: 0
+  - name: Foreground
+    uniqueID: 3744799913
+    locked: 0
